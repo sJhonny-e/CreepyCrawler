@@ -1,0 +1,21 @@
+{
+  "name": "creepy-crawler",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "scripts": {
+    "test" : "mocha",
+    "start" : "node lib/main.js"
+  },
+  "author": "Jhonny",
+  "dependencies": {
+    "cheerio": "latest",
+    "q": "latest"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.4.5",
+    "nock": "^7.5.0",
+    "sinon": "^1.17.3"
+  }
+}

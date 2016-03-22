@@ -1,3 +1,6 @@
+node_modules
+*siteMap.json
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
